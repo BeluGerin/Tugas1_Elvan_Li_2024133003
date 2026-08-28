@@ -1,0 +1,17 @@
+.hero-container {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #fdfdfd 0%, #ecf0f1 100%);/
+}
+
+.hero-container h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 15px;
+}
+
+.hero-container p {
+  color: #7f8c8d;
+  font-size: 1.1rem;
+}

@@ -1,0 +1,13 @@
+.column-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.column-box {
+  flex: 1;
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}

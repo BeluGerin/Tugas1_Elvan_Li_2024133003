@@ -1,0 +1,26 @@
+.nav-container {
+  background-color: #34495e;
+  color: white;
+  padding: 15px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.links a {
+  color: #eee;
+  text-decoration: none;
+  margin-left: 25px;
+  font-weight: 400;
+  transition: color 0.3s ease;
+}
+
+.links a:hover {
+  color: #3498db;
+}
